@@ -1,0 +1,14 @@
+C:\temp\projetos\EnterData2\EnterData2\bin\Debug\net8.0\EnterData2.exe
+C:\temp\projetos\EnterData2\EnterData2\bin\Debug\net8.0\EnterData2.deps.json
+C:\temp\projetos\EnterData2\EnterData2\bin\Debug\net8.0\EnterData2.runtimeconfig.json
+C:\temp\projetos\EnterData2\EnterData2\bin\Debug\net8.0\EnterData2.dll
+C:\temp\projetos\EnterData2\EnterData2\bin\Debug\net8.0\EnterData2.pdb
+C:\temp\projetos\EnterData2\EnterData2\obj\Debug\net8.0\EnterData2.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\projetos\EnterData2\EnterData2\obj\Debug\net8.0\EnterData2.AssemblyInfoInputs.cache
+C:\temp\projetos\EnterData2\EnterData2\obj\Debug\net8.0\EnterData2.AssemblyInfo.cs
+C:\temp\projetos\EnterData2\EnterData2\obj\Debug\net8.0\EnterData2.csproj.CoreCompileInputs.cache
+C:\temp\projetos\EnterData2\EnterData2\obj\Debug\net8.0\EnterData2.dll
+C:\temp\projetos\EnterData2\EnterData2\obj\Debug\net8.0\refint\EnterData2.dll
+C:\temp\projetos\EnterData2\EnterData2\obj\Debug\net8.0\EnterData2.pdb
+C:\temp\projetos\EnterData2\EnterData2\obj\Debug\net8.0\EnterData2.genruntimeconfig.cache
+C:\temp\projetos\EnterData2\EnterData2\obj\Debug\net8.0\ref\EnterData2.dll
