@@ -1,0 +1,14 @@
+C:\temp\projetos\Section 3\Exercise 4\DivisionPair\DivisionPair\bin\Debug\net8.0\DivisionPair.exe
+C:\temp\projetos\Section 3\Exercise 4\DivisionPair\DivisionPair\bin\Debug\net8.0\DivisionPair.deps.json
+C:\temp\projetos\Section 3\Exercise 4\DivisionPair\DivisionPair\bin\Debug\net8.0\DivisionPair.runtimeconfig.json
+C:\temp\projetos\Section 3\Exercise 4\DivisionPair\DivisionPair\bin\Debug\net8.0\DivisionPair.dll
+C:\temp\projetos\Section 3\Exercise 4\DivisionPair\DivisionPair\bin\Debug\net8.0\DivisionPair.pdb
+C:\temp\projetos\Section 3\Exercise 4\DivisionPair\DivisionPair\obj\Debug\net8.0\DivisionPair.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\projetos\Section 3\Exercise 4\DivisionPair\DivisionPair\obj\Debug\net8.0\DivisionPair.AssemblyInfoInputs.cache
+C:\temp\projetos\Section 3\Exercise 4\DivisionPair\DivisionPair\obj\Debug\net8.0\DivisionPair.AssemblyInfo.cs
+C:\temp\projetos\Section 3\Exercise 4\DivisionPair\DivisionPair\obj\Debug\net8.0\DivisionPair.csproj.CoreCompileInputs.cache
+C:\temp\projetos\Section 3\Exercise 4\DivisionPair\DivisionPair\obj\Debug\net8.0\DivisionPair.dll
+C:\temp\projetos\Section 3\Exercise 4\DivisionPair\DivisionPair\obj\Debug\net8.0\refint\DivisionPair.dll
+C:\temp\projetos\Section 3\Exercise 4\DivisionPair\DivisionPair\obj\Debug\net8.0\DivisionPair.pdb
+C:\temp\projetos\Section 3\Exercise 4\DivisionPair\DivisionPair\obj\Debug\net8.0\DivisionPair.genruntimeconfig.cache
+C:\temp\projetos\Section 3\Exercise 4\DivisionPair\DivisionPair\obj\Debug\net8.0\ref\DivisionPair.dll

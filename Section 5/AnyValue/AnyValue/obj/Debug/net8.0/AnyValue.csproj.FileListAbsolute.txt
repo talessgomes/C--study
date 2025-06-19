@@ -1,0 +1,14 @@
+C:\temp\projetos\AnyValue\AnyValue\bin\Debug\net8.0\AnyValue.exe
+C:\temp\projetos\AnyValue\AnyValue\bin\Debug\net8.0\AnyValue.deps.json
+C:\temp\projetos\AnyValue\AnyValue\bin\Debug\net8.0\AnyValue.runtimeconfig.json
+C:\temp\projetos\AnyValue\AnyValue\bin\Debug\net8.0\AnyValue.dll
+C:\temp\projetos\AnyValue\AnyValue\bin\Debug\net8.0\AnyValue.pdb
+C:\temp\projetos\AnyValue\AnyValue\obj\Debug\net8.0\AnyValue.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\projetos\AnyValue\AnyValue\obj\Debug\net8.0\AnyValue.AssemblyInfoInputs.cache
+C:\temp\projetos\AnyValue\AnyValue\obj\Debug\net8.0\AnyValue.AssemblyInfo.cs
+C:\temp\projetos\AnyValue\AnyValue\obj\Debug\net8.0\AnyValue.csproj.CoreCompileInputs.cache
+C:\temp\projetos\AnyValue\AnyValue\obj\Debug\net8.0\AnyValue.dll
+C:\temp\projetos\AnyValue\AnyValue\obj\Debug\net8.0\refint\AnyValue.dll
+C:\temp\projetos\AnyValue\AnyValue\obj\Debug\net8.0\AnyValue.pdb
+C:\temp\projetos\AnyValue\AnyValue\obj\Debug\net8.0\AnyValue.genruntimeconfig.cache
+C:\temp\projetos\AnyValue\AnyValue\obj\Debug\net8.0\ref\AnyValue.dll

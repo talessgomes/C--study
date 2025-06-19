@@ -1,0 +1,14 @@
+C:\temp\projetos\Section 6\MatrizRepeat\MatrizRepeat\bin\Debug\net8.0\MatrizRepeat.exe
+C:\temp\projetos\Section 6\MatrizRepeat\MatrizRepeat\bin\Debug\net8.0\MatrizRepeat.deps.json
+C:\temp\projetos\Section 6\MatrizRepeat\MatrizRepeat\bin\Debug\net8.0\MatrizRepeat.runtimeconfig.json
+C:\temp\projetos\Section 6\MatrizRepeat\MatrizRepeat\bin\Debug\net8.0\MatrizRepeat.dll
+C:\temp\projetos\Section 6\MatrizRepeat\MatrizRepeat\bin\Debug\net8.0\MatrizRepeat.pdb
+C:\temp\projetos\Section 6\MatrizRepeat\MatrizRepeat\obj\Debug\net8.0\MatrizRepeat.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\projetos\Section 6\MatrizRepeat\MatrizRepeat\obj\Debug\net8.0\MatrizRepeat.AssemblyInfoInputs.cache
+C:\temp\projetos\Section 6\MatrizRepeat\MatrizRepeat\obj\Debug\net8.0\MatrizRepeat.AssemblyInfo.cs
+C:\temp\projetos\Section 6\MatrizRepeat\MatrizRepeat\obj\Debug\net8.0\MatrizRepeat.csproj.CoreCompileInputs.cache
+C:\temp\projetos\Section 6\MatrizRepeat\MatrizRepeat\obj\Debug\net8.0\MatrizRepeat.dll
+C:\temp\projetos\Section 6\MatrizRepeat\MatrizRepeat\obj\Debug\net8.0\refint\MatrizRepeat.dll
+C:\temp\projetos\Section 6\MatrizRepeat\MatrizRepeat\obj\Debug\net8.0\MatrizRepeat.pdb
+C:\temp\projetos\Section 6\MatrizRepeat\MatrizRepeat\obj\Debug\net8.0\MatrizRepeat.genruntimeconfig.cache
+C:\temp\projetos\Section 6\MatrizRepeat\MatrizRepeat\obj\Debug\net8.0\ref\MatrizRepeat.dll

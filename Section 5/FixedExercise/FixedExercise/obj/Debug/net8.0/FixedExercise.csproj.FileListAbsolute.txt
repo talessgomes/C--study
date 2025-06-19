@@ -1,0 +1,14 @@
+C:\temp\projetos\FixedExercise\FixedExercise\obj\Debug\net8.0\FixedExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\projetos\FixedExercise\FixedExercise\obj\Debug\net8.0\FixedExercise.AssemblyInfoInputs.cache
+C:\temp\projetos\FixedExercise\FixedExercise\obj\Debug\net8.0\FixedExercise.AssemblyInfo.cs
+C:\temp\projetos\FixedExercise\FixedExercise\obj\Debug\net8.0\FixedExercise.csproj.CoreCompileInputs.cache
+C:\temp\projetos\FixedExercise\FixedExercise\bin\Debug\net8.0\FixedExercise.exe
+C:\temp\projetos\FixedExercise\FixedExercise\bin\Debug\net8.0\FixedExercise.deps.json
+C:\temp\projetos\FixedExercise\FixedExercise\bin\Debug\net8.0\FixedExercise.runtimeconfig.json
+C:\temp\projetos\FixedExercise\FixedExercise\bin\Debug\net8.0\FixedExercise.dll
+C:\temp\projetos\FixedExercise\FixedExercise\bin\Debug\net8.0\FixedExercise.pdb
+C:\temp\projetos\FixedExercise\FixedExercise\obj\Debug\net8.0\FixedExercise.dll
+C:\temp\projetos\FixedExercise\FixedExercise\obj\Debug\net8.0\refint\FixedExercise.dll
+C:\temp\projetos\FixedExercise\FixedExercise\obj\Debug\net8.0\FixedExercise.pdb
+C:\temp\projetos\FixedExercise\FixedExercise\obj\Debug\net8.0\FixedExercise.genruntimeconfig.cache
+C:\temp\projetos\FixedExercise\FixedExercise\obj\Debug\net8.0\ref\FixedExercise.dll

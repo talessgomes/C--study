@@ -1,0 +1,14 @@
+C:\temp\projetos\NegativeOrNot\NegativeOrNot\bin\Debug\net8.0\NegativeOrNot.exe
+C:\temp\projetos\NegativeOrNot\NegativeOrNot\bin\Debug\net8.0\NegativeOrNot.deps.json
+C:\temp\projetos\NegativeOrNot\NegativeOrNot\bin\Debug\net8.0\NegativeOrNot.runtimeconfig.json
+C:\temp\projetos\NegativeOrNot\NegativeOrNot\bin\Debug\net8.0\NegativeOrNot.dll
+C:\temp\projetos\NegativeOrNot\NegativeOrNot\bin\Debug\net8.0\NegativeOrNot.pdb
+C:\temp\projetos\NegativeOrNot\NegativeOrNot\obj\Debug\net8.0\NegativeOrNot.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\projetos\NegativeOrNot\NegativeOrNot\obj\Debug\net8.0\NegativeOrNot.AssemblyInfoInputs.cache
+C:\temp\projetos\NegativeOrNot\NegativeOrNot\obj\Debug\net8.0\NegativeOrNot.AssemblyInfo.cs
+C:\temp\projetos\NegativeOrNot\NegativeOrNot\obj\Debug\net8.0\NegativeOrNot.csproj.CoreCompileInputs.cache
+C:\temp\projetos\NegativeOrNot\NegativeOrNot\obj\Debug\net8.0\NegativeOrNot.dll
+C:\temp\projetos\NegativeOrNot\NegativeOrNot\obj\Debug\net8.0\refint\NegativeOrNot.dll
+C:\temp\projetos\NegativeOrNot\NegativeOrNot\obj\Debug\net8.0\NegativeOrNot.pdb
+C:\temp\projetos\NegativeOrNot\NegativeOrNot\obj\Debug\net8.0\NegativeOrNot.genruntimeconfig.cache
+C:\temp\projetos\NegativeOrNot\NegativeOrNot\obj\Debug\net8.0\ref\NegativeOrNot.dll

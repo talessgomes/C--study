@@ -1,0 +1,14 @@
+C:\temp\projetos\SequentialExercise01\SequentialExercise01\bin\Debug\net8.0\SequentialExercise01.exe
+C:\temp\projetos\SequentialExercise01\SequentialExercise01\bin\Debug\net8.0\SequentialExercise01.deps.json
+C:\temp\projetos\SequentialExercise01\SequentialExercise01\bin\Debug\net8.0\SequentialExercise01.runtimeconfig.json
+C:\temp\projetos\SequentialExercise01\SequentialExercise01\bin\Debug\net8.0\SequentialExercise01.dll
+C:\temp\projetos\SequentialExercise01\SequentialExercise01\bin\Debug\net8.0\SequentialExercise01.pdb
+C:\temp\projetos\SequentialExercise01\SequentialExercise01\obj\Debug\net8.0\SequentialExercise01.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\projetos\SequentialExercise01\SequentialExercise01\obj\Debug\net8.0\SequentialExercise01.AssemblyInfoInputs.cache
+C:\temp\projetos\SequentialExercise01\SequentialExercise01\obj\Debug\net8.0\SequentialExercise01.AssemblyInfo.cs
+C:\temp\projetos\SequentialExercise01\SequentialExercise01\obj\Debug\net8.0\SequentialExercise01.csproj.CoreCompileInputs.cache
+C:\temp\projetos\SequentialExercise01\SequentialExercise01\obj\Debug\net8.0\SequentialExercise01.dll
+C:\temp\projetos\SequentialExercise01\SequentialExercise01\obj\Debug\net8.0\refint\SequentialExercise01.dll
+C:\temp\projetos\SequentialExercise01\SequentialExercise01\obj\Debug\net8.0\SequentialExercise01.pdb
+C:\temp\projetos\SequentialExercise01\SequentialExercise01\obj\Debug\net8.0\SequentialExercise01.genruntimeconfig.cache
+C:\temp\projetos\SequentialExercise01\SequentialExercise01\obj\Debug\net8.0\ref\SequentialExercise01.dll

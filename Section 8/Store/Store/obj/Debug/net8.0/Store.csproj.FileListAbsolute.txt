@@ -1,0 +1,14 @@
+C:\temp\projetos\Section 8\Store\Store\bin\Debug\net8.0\Store.exe
+C:\temp\projetos\Section 8\Store\Store\bin\Debug\net8.0\Store.deps.json
+C:\temp\projetos\Section 8\Store\Store\bin\Debug\net8.0\Store.runtimeconfig.json
+C:\temp\projetos\Section 8\Store\Store\bin\Debug\net8.0\Store.dll
+C:\temp\projetos\Section 8\Store\Store\bin\Debug\net8.0\Store.pdb
+C:\temp\projetos\Section 8\Store\Store\obj\Debug\net8.0\Store.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\projetos\Section 8\Store\Store\obj\Debug\net8.0\Store.AssemblyInfoInputs.cache
+C:\temp\projetos\Section 8\Store\Store\obj\Debug\net8.0\Store.AssemblyInfo.cs
+C:\temp\projetos\Section 8\Store\Store\obj\Debug\net8.0\Store.csproj.CoreCompileInputs.cache
+C:\temp\projetos\Section 8\Store\Store\obj\Debug\net8.0\Store.dll
+C:\temp\projetos\Section 8\Store\Store\obj\Debug\net8.0\refint\Store.dll
+C:\temp\projetos\Section 8\Store\Store\obj\Debug\net8.0\Store.pdb
+C:\temp\projetos\Section 8\Store\Store\obj\Debug\net8.0\Store.genruntimeconfig.cache
+C:\temp\projetos\Section 8\Store\Store\obj\Debug\net8.0\ref\Store.dll

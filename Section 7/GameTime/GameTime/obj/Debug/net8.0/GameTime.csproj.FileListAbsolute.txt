@@ -1,0 +1,14 @@
+C:\temp\projetos\GameTime\GameTime\bin\Debug\net8.0\GameTime.exe
+C:\temp\projetos\GameTime\GameTime\bin\Debug\net8.0\GameTime.deps.json
+C:\temp\projetos\GameTime\GameTime\bin\Debug\net8.0\GameTime.runtimeconfig.json
+C:\temp\projetos\GameTime\GameTime\bin\Debug\net8.0\GameTime.dll
+C:\temp\projetos\GameTime\GameTime\bin\Debug\net8.0\GameTime.pdb
+C:\temp\projetos\GameTime\GameTime\obj\Debug\net8.0\GameTime.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\projetos\GameTime\GameTime\obj\Debug\net8.0\GameTime.AssemblyInfoInputs.cache
+C:\temp\projetos\GameTime\GameTime\obj\Debug\net8.0\GameTime.AssemblyInfo.cs
+C:\temp\projetos\GameTime\GameTime\obj\Debug\net8.0\GameTime.csproj.CoreCompileInputs.cache
+C:\temp\projetos\GameTime\GameTime\obj\Debug\net8.0\GameTime.dll
+C:\temp\projetos\GameTime\GameTime\obj\Debug\net8.0\refint\GameTime.dll
+C:\temp\projetos\GameTime\GameTime\obj\Debug\net8.0\GameTime.pdb
+C:\temp\projetos\GameTime\GameTime\obj\Debug\net8.0\GameTime.genruntimeconfig.cache
+C:\temp\projetos\GameTime\GameTime\obj\Debug\net8.0\ref\GameTime.dll
