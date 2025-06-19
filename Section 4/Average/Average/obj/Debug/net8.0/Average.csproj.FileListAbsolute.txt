@@ -1,0 +1,14 @@
+C:\temp\projetos\Section 4\Average\Average\bin\Debug\net8.0\Average.exe
+C:\temp\projetos\Section 4\Average\Average\bin\Debug\net8.0\Average.deps.json
+C:\temp\projetos\Section 4\Average\Average\bin\Debug\net8.0\Average.runtimeconfig.json
+C:\temp\projetos\Section 4\Average\Average\bin\Debug\net8.0\Average.dll
+C:\temp\projetos\Section 4\Average\Average\bin\Debug\net8.0\Average.pdb
+C:\temp\projetos\Section 4\Average\Average\obj\Debug\net8.0\Average.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\projetos\Section 4\Average\Average\obj\Debug\net8.0\Average.AssemblyInfoInputs.cache
+C:\temp\projetos\Section 4\Average\Average\obj\Debug\net8.0\Average.AssemblyInfo.cs
+C:\temp\projetos\Section 4\Average\Average\obj\Debug\net8.0\Average.csproj.CoreCompileInputs.cache
+C:\temp\projetos\Section 4\Average\Average\obj\Debug\net8.0\Average.dll
+C:\temp\projetos\Section 4\Average\Average\obj\Debug\net8.0\refint\Average.dll
+C:\temp\projetos\Section 4\Average\Average\obj\Debug\net8.0\Average.pdb
+C:\temp\projetos\Section 4\Average\Average\obj\Debug\net8.0\Average.genruntimeconfig.cache
+C:\temp\projetos\Section 4\Average\Average\obj\Debug\net8.0\ref\Average.dll

@@ -1,0 +1,14 @@
+C:\temp\projetos\Section 8\Hour\Hour\bin\Debug\net8.0\Hour.exe
+C:\temp\projetos\Section 8\Hour\Hour\bin\Debug\net8.0\Hour.deps.json
+C:\temp\projetos\Section 8\Hour\Hour\bin\Debug\net8.0\Hour.runtimeconfig.json
+C:\temp\projetos\Section 8\Hour\Hour\bin\Debug\net8.0\Hour.dll
+C:\temp\projetos\Section 8\Hour\Hour\bin\Debug\net8.0\Hour.pdb
+C:\temp\projetos\Section 8\Hour\Hour\obj\Debug\net8.0\Hour.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\projetos\Section 8\Hour\Hour\obj\Debug\net8.0\Hour.AssemblyInfoInputs.cache
+C:\temp\projetos\Section 8\Hour\Hour\obj\Debug\net8.0\Hour.AssemblyInfo.cs
+C:\temp\projetos\Section 8\Hour\Hour\obj\Debug\net8.0\Hour.csproj.CoreCompileInputs.cache
+C:\temp\projetos\Section 8\Hour\Hour\obj\Debug\net8.0\Hour.dll
+C:\temp\projetos\Section 8\Hour\Hour\obj\Debug\net8.0\refint\Hour.dll
+C:\temp\projetos\Section 8\Hour\Hour\obj\Debug\net8.0\Hour.pdb
+C:\temp\projetos\Section 8\Hour\Hour\obj\Debug\net8.0\Hour.genruntimeconfig.cache
+C:\temp\projetos\Section 8\Hour\Hour\obj\Debug\net8.0\ref\Hour.dll

@@ -1,0 +1,14 @@
+C:\temp\projetos\Section 9\Company\Company\bin\Debug\net8.0\Company.exe
+C:\temp\projetos\Section 9\Company\Company\bin\Debug\net8.0\Company.deps.json
+C:\temp\projetos\Section 9\Company\Company\bin\Debug\net8.0\Company.runtimeconfig.json
+C:\temp\projetos\Section 9\Company\Company\bin\Debug\net8.0\Company.dll
+C:\temp\projetos\Section 9\Company\Company\bin\Debug\net8.0\Company.pdb
+C:\temp\projetos\Section 9\Company\Company\obj\Debug\net8.0\Company.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\projetos\Section 9\Company\Company\obj\Debug\net8.0\Company.AssemblyInfoInputs.cache
+C:\temp\projetos\Section 9\Company\Company\obj\Debug\net8.0\Company.AssemblyInfo.cs
+C:\temp\projetos\Section 9\Company\Company\obj\Debug\net8.0\Company.csproj.CoreCompileInputs.cache
+C:\temp\projetos\Section 9\Company\Company\obj\Debug\net8.0\Company.dll
+C:\temp\projetos\Section 9\Company\Company\obj\Debug\net8.0\refint\Company.dll
+C:\temp\projetos\Section 9\Company\Company\obj\Debug\net8.0\Company.pdb
+C:\temp\projetos\Section 9\Company\Company\obj\Debug\net8.0\Company.genruntimeconfig.cache
+C:\temp\projetos\Section 9\Company\Company\obj\Debug\net8.0\ref\Company.dll

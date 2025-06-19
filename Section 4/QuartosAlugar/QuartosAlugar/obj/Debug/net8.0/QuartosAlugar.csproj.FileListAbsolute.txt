@@ -1,0 +1,14 @@
+C:\temp\projetos\Section 4\QuartosAlugar\QuartosAlugar\bin\Debug\net8.0\QuartosAlugar.exe
+C:\temp\projetos\Section 4\QuartosAlugar\QuartosAlugar\bin\Debug\net8.0\QuartosAlugar.deps.json
+C:\temp\projetos\Section 4\QuartosAlugar\QuartosAlugar\bin\Debug\net8.0\QuartosAlugar.runtimeconfig.json
+C:\temp\projetos\Section 4\QuartosAlugar\QuartosAlugar\bin\Debug\net8.0\QuartosAlugar.dll
+C:\temp\projetos\Section 4\QuartosAlugar\QuartosAlugar\bin\Debug\net8.0\QuartosAlugar.pdb
+C:\temp\projetos\Section 4\QuartosAlugar\QuartosAlugar\obj\Debug\net8.0\QuartosAlugar.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\projetos\Section 4\QuartosAlugar\QuartosAlugar\obj\Debug\net8.0\QuartosAlugar.AssemblyInfoInputs.cache
+C:\temp\projetos\Section 4\QuartosAlugar\QuartosAlugar\obj\Debug\net8.0\QuartosAlugar.AssemblyInfo.cs
+C:\temp\projetos\Section 4\QuartosAlugar\QuartosAlugar\obj\Debug\net8.0\QuartosAlugar.csproj.CoreCompileInputs.cache
+C:\temp\projetos\Section 4\QuartosAlugar\QuartosAlugar\obj\Debug\net8.0\QuartosAlugar.dll
+C:\temp\projetos\Section 4\QuartosAlugar\QuartosAlugar\obj\Debug\net8.0\refint\QuartosAlugar.dll
+C:\temp\projetos\Section 4\QuartosAlugar\QuartosAlugar\obj\Debug\net8.0\QuartosAlugar.pdb
+C:\temp\projetos\Section 4\QuartosAlugar\QuartosAlugar\obj\Debug\net8.0\QuartosAlugar.genruntimeconfig.cache
+C:\temp\projetos\Section 4\QuartosAlugar\QuartosAlugar\obj\Debug\net8.0\ref\QuartosAlugar.dll

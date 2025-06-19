@@ -1,0 +1,14 @@
+C:\temp\projetos\Section 4\DadosProduto\DadosProduto\bin\Debug\net8.0\DadosProduto.exe
+C:\temp\projetos\Section 4\DadosProduto\DadosProduto\bin\Debug\net8.0\DadosProduto.deps.json
+C:\temp\projetos\Section 4\DadosProduto\DadosProduto\bin\Debug\net8.0\DadosProduto.runtimeconfig.json
+C:\temp\projetos\Section 4\DadosProduto\DadosProduto\bin\Debug\net8.0\DadosProduto.dll
+C:\temp\projetos\Section 4\DadosProduto\DadosProduto\bin\Debug\net8.0\DadosProduto.pdb
+C:\temp\projetos\Section 4\DadosProduto\DadosProduto\obj\Debug\net8.0\DadosProduto.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\projetos\Section 4\DadosProduto\DadosProduto\obj\Debug\net8.0\DadosProduto.AssemblyInfoInputs.cache
+C:\temp\projetos\Section 4\DadosProduto\DadosProduto\obj\Debug\net8.0\DadosProduto.AssemblyInfo.cs
+C:\temp\projetos\Section 4\DadosProduto\DadosProduto\obj\Debug\net8.0\DadosProduto.csproj.CoreCompileInputs.cache
+C:\temp\projetos\Section 4\DadosProduto\DadosProduto\obj\Debug\net8.0\DadosProduto.dll
+C:\temp\projetos\Section 4\DadosProduto\DadosProduto\obj\Debug\net8.0\refint\DadosProduto.dll
+C:\temp\projetos\Section 4\DadosProduto\DadosProduto\obj\Debug\net8.0\DadosProduto.pdb
+C:\temp\projetos\Section 4\DadosProduto\DadosProduto\obj\Debug\net8.0\DadosProduto.genruntimeconfig.cache
+C:\temp\projetos\Section 4\DadosProduto\DadosProduto\obj\Debug\net8.0\ref\DadosProduto.dll

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\temp\\projetos\\Section 3\\WhileCartesian\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F2757226-B091-4420-BD39-FC88BCD807DC}|WhileCartesian\\WhileCartesian.csproj|c:\\temp\\projetos\\section 3\\whilecartesian\\whilecartesian\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2757226-B091-4420-BD39-FC88BCD807DC}|WhileCartesian\\WhileCartesian.csproj|solutionrelative:whilecartesian\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\temp\\projetos\\Section 3\\WhileCartesian\\WhileCartesian\\Program.cs",
+              "RelativeDocumentMoniker": "WhileCartesian\\Program.cs",
+              "ToolTip": "C:\\temp\\projetos\\Section 3\\WhileCartesian\\WhileCartesian\\Program.cs",
+              "RelativeToolTip": "WhileCartesian\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T23:33:15.847Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

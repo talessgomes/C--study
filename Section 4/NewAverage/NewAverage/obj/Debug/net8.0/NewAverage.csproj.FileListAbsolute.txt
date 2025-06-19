@@ -1,0 +1,14 @@
+C:\temp\projetos\Section 4\NewAverage\NewAverage\bin\Debug\net8.0\NewAverage.exe
+C:\temp\projetos\Section 4\NewAverage\NewAverage\bin\Debug\net8.0\NewAverage.deps.json
+C:\temp\projetos\Section 4\NewAverage\NewAverage\bin\Debug\net8.0\NewAverage.runtimeconfig.json
+C:\temp\projetos\Section 4\NewAverage\NewAverage\bin\Debug\net8.0\NewAverage.dll
+C:\temp\projetos\Section 4\NewAverage\NewAverage\bin\Debug\net8.0\NewAverage.pdb
+C:\temp\projetos\Section 4\NewAverage\NewAverage\obj\Debug\net8.0\NewAverage.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\projetos\Section 4\NewAverage\NewAverage\obj\Debug\net8.0\NewAverage.AssemblyInfoInputs.cache
+C:\temp\projetos\Section 4\NewAverage\NewAverage\obj\Debug\net8.0\NewAverage.AssemblyInfo.cs
+C:\temp\projetos\Section 4\NewAverage\NewAverage\obj\Debug\net8.0\NewAverage.csproj.CoreCompileInputs.cache
+C:\temp\projetos\Section 4\NewAverage\NewAverage\obj\Debug\net8.0\NewAverage.dll
+C:\temp\projetos\Section 4\NewAverage\NewAverage\obj\Debug\net8.0\refint\NewAverage.dll
+C:\temp\projetos\Section 4\NewAverage\NewAverage\obj\Debug\net8.0\NewAverage.pdb
+C:\temp\projetos\Section 4\NewAverage\NewAverage\obj\Debug\net8.0\NewAverage.genruntimeconfig.cache
+C:\temp\projetos\Section 4\NewAverage\NewAverage\obj\Debug\net8.0\ref\NewAverage.dll

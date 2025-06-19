@@ -1,0 +1,14 @@
+C:\temp\projetos\Section 3\GasStation\GasStation\bin\Debug\net8.0\GasStation.exe
+C:\temp\projetos\Section 3\GasStation\GasStation\bin\Debug\net8.0\GasStation.deps.json
+C:\temp\projetos\Section 3\GasStation\GasStation\bin\Debug\net8.0\GasStation.runtimeconfig.json
+C:\temp\projetos\Section 3\GasStation\GasStation\bin\Debug\net8.0\GasStation.dll
+C:\temp\projetos\Section 3\GasStation\GasStation\bin\Debug\net8.0\GasStation.pdb
+C:\temp\projetos\Section 3\GasStation\GasStation\obj\Debug\net8.0\GasStation.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\projetos\Section 3\GasStation\GasStation\obj\Debug\net8.0\GasStation.AssemblyInfoInputs.cache
+C:\temp\projetos\Section 3\GasStation\GasStation\obj\Debug\net8.0\GasStation.AssemblyInfo.cs
+C:\temp\projetos\Section 3\GasStation\GasStation\obj\Debug\net8.0\GasStation.csproj.CoreCompileInputs.cache
+C:\temp\projetos\Section 3\GasStation\GasStation\obj\Debug\net8.0\GasStation.dll
+C:\temp\projetos\Section 3\GasStation\GasStation\obj\Debug\net8.0\refint\GasStation.dll
+C:\temp\projetos\Section 3\GasStation\GasStation\obj\Debug\net8.0\GasStation.pdb
+C:\temp\projetos\Section 3\GasStation\GasStation\obj\Debug\net8.0\GasStation.genruntimeconfig.cache
+C:\temp\projetos\Section 3\GasStation\GasStation\obj\Debug\net8.0\ref\GasStation.dll

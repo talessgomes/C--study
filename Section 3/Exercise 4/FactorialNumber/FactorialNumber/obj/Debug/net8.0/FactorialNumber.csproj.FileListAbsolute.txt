@@ -1,0 +1,14 @@
+C:\temp\projetos\Section 3\Exercise 4\FactorialNumber\FactorialNumber\bin\Debug\net8.0\FactorialNumber.exe
+C:\temp\projetos\Section 3\Exercise 4\FactorialNumber\FactorialNumber\bin\Debug\net8.0\FactorialNumber.deps.json
+C:\temp\projetos\Section 3\Exercise 4\FactorialNumber\FactorialNumber\bin\Debug\net8.0\FactorialNumber.runtimeconfig.json
+C:\temp\projetos\Section 3\Exercise 4\FactorialNumber\FactorialNumber\bin\Debug\net8.0\FactorialNumber.dll
+C:\temp\projetos\Section 3\Exercise 4\FactorialNumber\FactorialNumber\bin\Debug\net8.0\FactorialNumber.pdb
+C:\temp\projetos\Section 3\Exercise 4\FactorialNumber\FactorialNumber\obj\Debug\net8.0\FactorialNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\projetos\Section 3\Exercise 4\FactorialNumber\FactorialNumber\obj\Debug\net8.0\FactorialNumber.AssemblyInfoInputs.cache
+C:\temp\projetos\Section 3\Exercise 4\FactorialNumber\FactorialNumber\obj\Debug\net8.0\FactorialNumber.AssemblyInfo.cs
+C:\temp\projetos\Section 3\Exercise 4\FactorialNumber\FactorialNumber\obj\Debug\net8.0\FactorialNumber.csproj.CoreCompileInputs.cache
+C:\temp\projetos\Section 3\Exercise 4\FactorialNumber\FactorialNumber\obj\Debug\net8.0\FactorialNumber.dll
+C:\temp\projetos\Section 3\Exercise 4\FactorialNumber\FactorialNumber\obj\Debug\net8.0\refint\FactorialNumber.dll
+C:\temp\projetos\Section 3\Exercise 4\FactorialNumber\FactorialNumber\obj\Debug\net8.0\FactorialNumber.pdb
+C:\temp\projetos\Section 3\Exercise 4\FactorialNumber\FactorialNumber\obj\Debug\net8.0\FactorialNumber.genruntimeconfig.cache
+C:\temp\projetos\Section 3\Exercise 4\FactorialNumber\FactorialNumber\obj\Debug\net8.0\ref\FactorialNumber.dll

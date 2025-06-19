@@ -1,0 +1,14 @@
+C:\temp\projetos\Section 9\Personalize\Personalize\bin\Debug\net8.0\Personalize.exe
+C:\temp\projetos\Section 9\Personalize\Personalize\bin\Debug\net8.0\Personalize.deps.json
+C:\temp\projetos\Section 9\Personalize\Personalize\bin\Debug\net8.0\Personalize.runtimeconfig.json
+C:\temp\projetos\Section 9\Personalize\Personalize\bin\Debug\net8.0\Personalize.dll
+C:\temp\projetos\Section 9\Personalize\Personalize\bin\Debug\net8.0\Personalize.pdb
+C:\temp\projetos\Section 9\Personalize\Personalize\obj\Debug\net8.0\Personalize.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\projetos\Section 9\Personalize\Personalize\obj\Debug\net8.0\Personalize.AssemblyInfoInputs.cache
+C:\temp\projetos\Section 9\Personalize\Personalize\obj\Debug\net8.0\Personalize.AssemblyInfo.cs
+C:\temp\projetos\Section 9\Personalize\Personalize\obj\Debug\net8.0\Personalize.csproj.CoreCompileInputs.cache
+C:\temp\projetos\Section 9\Personalize\Personalize\obj\Debug\net8.0\Personalize.dll
+C:\temp\projetos\Section 9\Personalize\Personalize\obj\Debug\net8.0\refint\Personalize.dll
+C:\temp\projetos\Section 9\Personalize\Personalize\obj\Debug\net8.0\Personalize.pdb
+C:\temp\projetos\Section 9\Personalize\Personalize\obj\Debug\net8.0\Personalize.genruntimeconfig.cache
+C:\temp\projetos\Section 9\Personalize\Personalize\obj\Debug\net8.0\ref\Personalize.dll

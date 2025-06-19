@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\temp\\projetos\\Section 8\\Store\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0BC99336-A88B-45F0-B488-E81823CC9EFB}|Store\\Store.csproj|c:\\temp\\projetos\\section 8\\store\\store\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BC99336-A88B-45F0-B488-E81823CC9EFB}|Store\\Store.csproj|solutionrelative:store\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BC99336-A88B-45F0-B488-E81823CC9EFB}|Store\\Store.csproj|c:\\temp\\projetos\\section 8\\store\\store\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BC99336-A88B-45F0-B488-E81823CC9EFB}|Store\\Store.csproj|solutionrelative:store\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BC99336-A88B-45F0-B488-E81823CC9EFB}|Store\\Store.csproj|c:\\temp\\projetos\\section 8\\store\\store\\entities\\enums\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BC99336-A88B-45F0-B488-E81823CC9EFB}|Store\\Store.csproj|solutionrelative:store\\entities\\enums\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BC99336-A88B-45F0-B488-E81823CC9EFB}|Store\\Store.csproj|c:\\temp\\projetos\\section 8\\store\\store\\entities\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BC99336-A88B-45F0-B488-E81823CC9EFB}|Store\\Store.csproj|solutionrelative:store\\entities\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BC99336-A88B-45F0-B488-E81823CC9EFB}|Store\\Store.csproj|c:\\temp\\projetos\\section 8\\store\\store\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BC99336-A88B-45F0-B488-E81823CC9EFB}|Store\\Store.csproj|solutionrelative:store\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BC99336-A88B-45F0-B488-E81823CC9EFB}|Store\\Store.csproj|c:\\temp\\projetos\\section 8\\store\\store\\entities\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BC99336-A88B-45F0-B488-E81823CC9EFB}|Store\\Store.csproj|solutionrelative:store\\entities\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\temp\\projetos\\Section 8\\Store\\Store\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "Store\\Entities\\Order.cs",
+              "ToolTip": "C:\\temp\\projetos\\Section 8\\Store\\Store\\Entities\\Order.cs",
+              "RelativeToolTip": "Store\\Entities\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T22:21:49.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderStatus.cs",
+              "DocumentMoniker": "C:\\temp\\projetos\\Section 8\\Store\\Store\\Entities\\Enums\\OrderStatus.cs",
+              "RelativeDocumentMoniker": "Store\\Entities\\Enums\\OrderStatus.cs",
+              "ToolTip": "C:\\temp\\projetos\\Section 8\\Store\\Store\\Entities\\Enums\\OrderStatus.cs",
+              "RelativeToolTip": "Store\\Entities\\Enums\\OrderStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T22:20:34.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\temp\\projetos\\Section 8\\Store\\Store\\Entities\\Client.cs",
+              "RelativeDocumentMoniker": "Store\\Entities\\Client.cs",
+              "ToolTip": "C:\\temp\\projetos\\Section 8\\Store\\Store\\Entities\\Client.cs",
+              "RelativeToolTip": "Store\\Entities\\Client.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T22:16:30.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\temp\\projetos\\Section 8\\Store\\Store\\Entities\\OrderItem.cs",
+              "RelativeDocumentMoniker": "Store\\Entities\\OrderItem.cs",
+              "ToolTip": "C:\\temp\\projetos\\Section 8\\Store\\Store\\Entities\\OrderItem.cs",
+              "RelativeToolTip": "Store\\Entities\\OrderItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T22:03:08.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\temp\\projetos\\Section 8\\Store\\Store\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "Store\\Entities\\Product.cs",
+              "ToolTip": "C:\\temp\\projetos\\Section 8\\Store\\Store\\Entities\\Product.cs",
+              "RelativeToolTip": "Store\\Entities\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T22:01:40.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\temp\\projetos\\Section 8\\Store\\Store\\Program.cs",
+              "RelativeDocumentMoniker": "Store\\Program.cs",
+              "ToolTip": "C:\\temp\\projetos\\Section 8\\Store\\Store\\Program.cs",
+              "RelativeToolTip": "Store\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCIAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T21:59:36.741Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

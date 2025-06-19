@@ -1,0 +1,14 @@
+C:\temp\projetos\Section 4\Pointer\Pointer\bin\Debug\net8.0\Pointer.exe
+C:\temp\projetos\Section 4\Pointer\Pointer\bin\Debug\net8.0\Pointer.deps.json
+C:\temp\projetos\Section 4\Pointer\Pointer\bin\Debug\net8.0\Pointer.runtimeconfig.json
+C:\temp\projetos\Section 4\Pointer\Pointer\bin\Debug\net8.0\Pointer.dll
+C:\temp\projetos\Section 4\Pointer\Pointer\bin\Debug\net8.0\Pointer.pdb
+C:\temp\projetos\Section 4\Pointer\Pointer\obj\Debug\net8.0\Pointer.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\projetos\Section 4\Pointer\Pointer\obj\Debug\net8.0\Pointer.AssemblyInfoInputs.cache
+C:\temp\projetos\Section 4\Pointer\Pointer\obj\Debug\net8.0\Pointer.AssemblyInfo.cs
+C:\temp\projetos\Section 4\Pointer\Pointer\obj\Debug\net8.0\Pointer.csproj.CoreCompileInputs.cache
+C:\temp\projetos\Section 4\Pointer\Pointer\obj\Debug\net8.0\Pointer.dll
+C:\temp\projetos\Section 4\Pointer\Pointer\obj\Debug\net8.0\refint\Pointer.dll
+C:\temp\projetos\Section 4\Pointer\Pointer\obj\Debug\net8.0\Pointer.pdb
+C:\temp\projetos\Section 4\Pointer\Pointer\obj\Debug\net8.0\Pointer.genruntimeconfig.cache
+C:\temp\projetos\Section 4\Pointer\Pointer\obj\Debug\net8.0\ref\Pointer.dll

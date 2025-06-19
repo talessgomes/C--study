@@ -1,0 +1,14 @@
+C:\temp\projetos\Lisarb\Lisarb\obj\Debug\net8.0\Lisarb.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\projetos\Lisarb\Lisarb\obj\Debug\net8.0\Lisarb.AssemblyInfoInputs.cache
+C:\temp\projetos\Lisarb\Lisarb\obj\Debug\net8.0\Lisarb.AssemblyInfo.cs
+C:\temp\projetos\Lisarb\Lisarb\obj\Debug\net8.0\Lisarb.csproj.CoreCompileInputs.cache
+C:\temp\projetos\Lisarb\Lisarb\bin\Debug\net8.0\Lisarb.exe
+C:\temp\projetos\Lisarb\Lisarb\bin\Debug\net8.0\Lisarb.deps.json
+C:\temp\projetos\Lisarb\Lisarb\bin\Debug\net8.0\Lisarb.runtimeconfig.json
+C:\temp\projetos\Lisarb\Lisarb\bin\Debug\net8.0\Lisarb.dll
+C:\temp\projetos\Lisarb\Lisarb\bin\Debug\net8.0\Lisarb.pdb
+C:\temp\projetos\Lisarb\Lisarb\obj\Debug\net8.0\Lisarb.dll
+C:\temp\projetos\Lisarb\Lisarb\obj\Debug\net8.0\refint\Lisarb.dll
+C:\temp\projetos\Lisarb\Lisarb\obj\Debug\net8.0\Lisarb.pdb
+C:\temp\projetos\Lisarb\Lisarb\obj\Debug\net8.0\Lisarb.genruntimeconfig.cache
+C:\temp\projetos\Lisarb\Lisarb\obj\Debug\net8.0\ref\Lisarb.dll

@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\temp\\projetos\\Section 9\\Personalize\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{35A62744-3D73-415D-BF30-27865085049B}|Personalize\\Personalize.csproj|c:\\temp\\projetos\\section 9\\personalize\\personalize\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35A62744-3D73-415D-BF30-27865085049B}|Personalize\\Personalize.csproj|solutionrelative:personalize\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35A62744-3D73-415D-BF30-27865085049B}|Personalize\\Personalize.csproj|c:\\temp\\projetos\\section 9\\personalize\\personalize\\entities\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35A62744-3D73-415D-BF30-27865085049B}|Personalize\\Personalize.csproj|solutionrelative:personalize\\entities\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35A62744-3D73-415D-BF30-27865085049B}|Personalize\\Personalize.csproj|c:\\temp\\projetos\\section 9\\personalize\\personalize\\entities\\exceptions\\domainexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35A62744-3D73-415D-BF30-27865085049B}|Personalize\\Personalize.csproj|solutionrelative:personalize\\entities\\exceptions\\domainexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 132,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DomainException.cs",
+              "DocumentMoniker": "C:\\temp\\projetos\\Section 9\\Personalize\\Personalize\\Entities\\Exceptions\\DomainException.cs",
+              "RelativeDocumentMoniker": "Personalize\\Entities\\Exceptions\\DomainException.cs",
+              "ToolTip": "C:\\temp\\projetos\\Section 9\\Personalize\\Personalize\\Entities\\Exceptions\\DomainException.cs",
+              "RelativeToolTip": "Personalize\\Entities\\Exceptions\\DomainException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T20:18:56.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Reservation.cs",
+              "DocumentMoniker": "C:\\temp\\projetos\\Section 9\\Personalize\\Personalize\\Entities\\Reservation.cs",
+              "RelativeDocumentMoniker": "Personalize\\Entities\\Reservation.cs",
+              "ToolTip": "C:\\temp\\projetos\\Section 9\\Personalize\\Personalize\\Entities\\Reservation.cs",
+              "RelativeToolTip": "Personalize\\Entities\\Reservation.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T19:04:33.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\temp\\projetos\\Section 9\\Personalize\\Personalize\\Program.cs",
+              "RelativeDocumentMoniker": "Personalize\\Program.cs",
+              "ToolTip": "C:\\temp\\projetos\\Section 9\\Personalize\\Personalize\\Program.cs",
+              "RelativeToolTip": "Personalize\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T19:03:17.948Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

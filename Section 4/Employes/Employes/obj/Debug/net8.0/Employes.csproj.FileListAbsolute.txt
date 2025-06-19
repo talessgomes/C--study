@@ -1,0 +1,14 @@
+C:\temp\projetos\Section 4\Employes\Employes\bin\Debug\net8.0\Employes.exe
+C:\temp\projetos\Section 4\Employes\Employes\bin\Debug\net8.0\Employes.deps.json
+C:\temp\projetos\Section 4\Employes\Employes\bin\Debug\net8.0\Employes.runtimeconfig.json
+C:\temp\projetos\Section 4\Employes\Employes\bin\Debug\net8.0\Employes.dll
+C:\temp\projetos\Section 4\Employes\Employes\bin\Debug\net8.0\Employes.pdb
+C:\temp\projetos\Section 4\Employes\Employes\obj\Debug\net8.0\Employes.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\projetos\Section 4\Employes\Employes\obj\Debug\net8.0\Employes.AssemblyInfoInputs.cache
+C:\temp\projetos\Section 4\Employes\Employes\obj\Debug\net8.0\Employes.AssemblyInfo.cs
+C:\temp\projetos\Section 4\Employes\Employes\obj\Debug\net8.0\Employes.csproj.CoreCompileInputs.cache
+C:\temp\projetos\Section 4\Employes\Employes\obj\Debug\net8.0\Employes.dll
+C:\temp\projetos\Section 4\Employes\Employes\obj\Debug\net8.0\refint\Employes.dll
+C:\temp\projetos\Section 4\Employes\Employes\obj\Debug\net8.0\Employes.pdb
+C:\temp\projetos\Section 4\Employes\Employes\obj\Debug\net8.0\Employes.genruntimeconfig.cache
+C:\temp\projetos\Section 4\Employes\Employes\obj\Debug\net8.0\ref\Employes.dll

@@ -1,0 +1,14 @@
+C:\temp\projetos\Section 4\AccountPerson\AccountPerson\bin\Debug\net8.0\AccountPerson.exe
+C:\temp\projetos\Section 4\AccountPerson\AccountPerson\bin\Debug\net8.0\AccountPerson.deps.json
+C:\temp\projetos\Section 4\AccountPerson\AccountPerson\bin\Debug\net8.0\AccountPerson.runtimeconfig.json
+C:\temp\projetos\Section 4\AccountPerson\AccountPerson\bin\Debug\net8.0\AccountPerson.dll
+C:\temp\projetos\Section 4\AccountPerson\AccountPerson\bin\Debug\net8.0\AccountPerson.pdb
+C:\temp\projetos\Section 4\AccountPerson\AccountPerson\obj\Debug\net8.0\AccountPerson.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\projetos\Section 4\AccountPerson\AccountPerson\obj\Debug\net8.0\AccountPerson.AssemblyInfoInputs.cache
+C:\temp\projetos\Section 4\AccountPerson\AccountPerson\obj\Debug\net8.0\AccountPerson.AssemblyInfo.cs
+C:\temp\projetos\Section 4\AccountPerson\AccountPerson\obj\Debug\net8.0\AccountPerson.csproj.CoreCompileInputs.cache
+C:\temp\projetos\Section 4\AccountPerson\AccountPerson\obj\Debug\net8.0\AccountPerson.dll
+C:\temp\projetos\Section 4\AccountPerson\AccountPerson\obj\Debug\net8.0\refint\AccountPerson.dll
+C:\temp\projetos\Section 4\AccountPerson\AccountPerson\obj\Debug\net8.0\AccountPerson.pdb
+C:\temp\projetos\Section 4\AccountPerson\AccountPerson\obj\Debug\net8.0\AccountPerson.genruntimeconfig.cache
+C:\temp\projetos\Section 4\AccountPerson\AccountPerson\obj\Debug\net8.0\ref\AccountPerson.dll

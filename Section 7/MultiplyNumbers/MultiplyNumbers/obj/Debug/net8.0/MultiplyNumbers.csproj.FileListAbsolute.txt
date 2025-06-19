@@ -1,0 +1,14 @@
+C:\temp\projetos\MultiplyNumbers\MultiplyNumbers\bin\Debug\net8.0\MultiplyNumbers.exe
+C:\temp\projetos\MultiplyNumbers\MultiplyNumbers\bin\Debug\net8.0\MultiplyNumbers.deps.json
+C:\temp\projetos\MultiplyNumbers\MultiplyNumbers\bin\Debug\net8.0\MultiplyNumbers.runtimeconfig.json
+C:\temp\projetos\MultiplyNumbers\MultiplyNumbers\bin\Debug\net8.0\MultiplyNumbers.dll
+C:\temp\projetos\MultiplyNumbers\MultiplyNumbers\bin\Debug\net8.0\MultiplyNumbers.pdb
+C:\temp\projetos\MultiplyNumbers\MultiplyNumbers\obj\Debug\net8.0\MultiplyNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\projetos\MultiplyNumbers\MultiplyNumbers\obj\Debug\net8.0\MultiplyNumbers.AssemblyInfoInputs.cache
+C:\temp\projetos\MultiplyNumbers\MultiplyNumbers\obj\Debug\net8.0\MultiplyNumbers.AssemblyInfo.cs
+C:\temp\projetos\MultiplyNumbers\MultiplyNumbers\obj\Debug\net8.0\MultiplyNumbers.csproj.CoreCompileInputs.cache
+C:\temp\projetos\MultiplyNumbers\MultiplyNumbers\obj\Debug\net8.0\MultiplyNumbers.dll
+C:\temp\projetos\MultiplyNumbers\MultiplyNumbers\obj\Debug\net8.0\refint\MultiplyNumbers.dll
+C:\temp\projetos\MultiplyNumbers\MultiplyNumbers\obj\Debug\net8.0\MultiplyNumbers.pdb
+C:\temp\projetos\MultiplyNumbers\MultiplyNumbers\obj\Debug\net8.0\MultiplyNumbers.genruntimeconfig.cache
+C:\temp\projetos\MultiplyNumbers\MultiplyNumbers\obj\Debug\net8.0\ref\MultiplyNumbers.dll

@@ -1,0 +1,14 @@
+C:\temp\projetos\Section 3\Exercise 4\Divisors\Divisors\bin\Debug\net8.0\Divisors.exe
+C:\temp\projetos\Section 3\Exercise 4\Divisors\Divisors\bin\Debug\net8.0\Divisors.deps.json
+C:\temp\projetos\Section 3\Exercise 4\Divisors\Divisors\bin\Debug\net8.0\Divisors.runtimeconfig.json
+C:\temp\projetos\Section 3\Exercise 4\Divisors\Divisors\bin\Debug\net8.0\Divisors.dll
+C:\temp\projetos\Section 3\Exercise 4\Divisors\Divisors\bin\Debug\net8.0\Divisors.pdb
+C:\temp\projetos\Section 3\Exercise 4\Divisors\Divisors\obj\Debug\net8.0\Divisors.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\projetos\Section 3\Exercise 4\Divisors\Divisors\obj\Debug\net8.0\Divisors.AssemblyInfoInputs.cache
+C:\temp\projetos\Section 3\Exercise 4\Divisors\Divisors\obj\Debug\net8.0\Divisors.AssemblyInfo.cs
+C:\temp\projetos\Section 3\Exercise 4\Divisors\Divisors\obj\Debug\net8.0\Divisors.csproj.CoreCompileInputs.cache
+C:\temp\projetos\Section 3\Exercise 4\Divisors\Divisors\obj\Debug\net8.0\Divisors.dll
+C:\temp\projetos\Section 3\Exercise 4\Divisors\Divisors\obj\Debug\net8.0\refint\Divisors.dll
+C:\temp\projetos\Section 3\Exercise 4\Divisors\Divisors\obj\Debug\net8.0\Divisors.pdb
+C:\temp\projetos\Section 3\Exercise 4\Divisors\Divisors\obj\Debug\net8.0\Divisors.genruntimeconfig.cache
+C:\temp\projetos\Section 3\Exercise 4\Divisors\Divisors\obj\Debug\net8.0\ref\Divisors.dll

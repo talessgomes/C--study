@@ -1,0 +1,14 @@
+C:\temp\projetos\Section 3\PairorLess\PairorLess\bin\Debug\net8.0\PairorLess.exe
+C:\temp\projetos\Section 3\PairorLess\PairorLess\bin\Debug\net8.0\PairorLess.deps.json
+C:\temp\projetos\Section 3\PairorLess\PairorLess\bin\Debug\net8.0\PairorLess.runtimeconfig.json
+C:\temp\projetos\Section 3\PairorLess\PairorLess\bin\Debug\net8.0\PairorLess.dll
+C:\temp\projetos\Section 3\PairorLess\PairorLess\bin\Debug\net8.0\PairorLess.pdb
+C:\temp\projetos\Section 3\PairorLess\PairorLess\obj\Debug\net8.0\PairorLess.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\projetos\Section 3\PairorLess\PairorLess\obj\Debug\net8.0\PairorLess.AssemblyInfoInputs.cache
+C:\temp\projetos\Section 3\PairorLess\PairorLess\obj\Debug\net8.0\PairorLess.AssemblyInfo.cs
+C:\temp\projetos\Section 3\PairorLess\PairorLess\obj\Debug\net8.0\PairorLess.csproj.CoreCompileInputs.cache
+C:\temp\projetos\Section 3\PairorLess\PairorLess\obj\Debug\net8.0\PairorLess.dll
+C:\temp\projetos\Section 3\PairorLess\PairorLess\obj\Debug\net8.0\refint\PairorLess.dll
+C:\temp\projetos\Section 3\PairorLess\PairorLess\obj\Debug\net8.0\PairorLess.pdb
+C:\temp\projetos\Section 3\PairorLess\PairorLess\obj\Debug\net8.0\PairorLess.genruntimeconfig.cache
+C:\temp\projetos\Section 3\PairorLess\PairorLess\obj\Debug\net8.0\ref\PairorLess.dll

@@ -1,0 +1,14 @@
+C:\temp\projetos\Section 6\OrderApp\OrderApp\bin\Debug\net8.0\OrderApp.exe
+C:\temp\projetos\Section 6\OrderApp\OrderApp\bin\Debug\net8.0\OrderApp.deps.json
+C:\temp\projetos\Section 6\OrderApp\OrderApp\bin\Debug\net8.0\OrderApp.runtimeconfig.json
+C:\temp\projetos\Section 6\OrderApp\OrderApp\bin\Debug\net8.0\OrderApp.dll
+C:\temp\projetos\Section 6\OrderApp\OrderApp\bin\Debug\net8.0\OrderApp.pdb
+C:\temp\projetos\Section 6\OrderApp\OrderApp\obj\Debug\net8.0\OrderApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\projetos\Section 6\OrderApp\OrderApp\obj\Debug\net8.0\OrderApp.AssemblyInfoInputs.cache
+C:\temp\projetos\Section 6\OrderApp\OrderApp\obj\Debug\net8.0\OrderApp.AssemblyInfo.cs
+C:\temp\projetos\Section 6\OrderApp\OrderApp\obj\Debug\net8.0\OrderApp.csproj.CoreCompileInputs.cache
+C:\temp\projetos\Section 6\OrderApp\OrderApp\obj\Debug\net8.0\OrderApp.dll
+C:\temp\projetos\Section 6\OrderApp\OrderApp\obj\Debug\net8.0\refint\OrderApp.dll
+C:\temp\projetos\Section 6\OrderApp\OrderApp\obj\Debug\net8.0\OrderApp.pdb
+C:\temp\projetos\Section 6\OrderApp\OrderApp\obj\Debug\net8.0\OrderApp.genruntimeconfig.cache
+C:\temp\projetos\Section 6\OrderApp\OrderApp\obj\Debug\net8.0\ref\OrderApp.dll
