@@ -1,0 +1,14 @@
+C:\temp\projetos\Section 10\FindFiles\FindFiles\bin\Debug\net8.0\FindFiles.exe
+C:\temp\projetos\Section 10\FindFiles\FindFiles\bin\Debug\net8.0\FindFiles.deps.json
+C:\temp\projetos\Section 10\FindFiles\FindFiles\bin\Debug\net8.0\FindFiles.runtimeconfig.json
+C:\temp\projetos\Section 10\FindFiles\FindFiles\bin\Debug\net8.0\FindFiles.dll
+C:\temp\projetos\Section 10\FindFiles\FindFiles\bin\Debug\net8.0\FindFiles.pdb
+C:\temp\projetos\Section 10\FindFiles\FindFiles\obj\Debug\net8.0\FindFiles.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\projetos\Section 10\FindFiles\FindFiles\obj\Debug\net8.0\FindFiles.AssemblyInfoInputs.cache
+C:\temp\projetos\Section 10\FindFiles\FindFiles\obj\Debug\net8.0\FindFiles.AssemblyInfo.cs
+C:\temp\projetos\Section 10\FindFiles\FindFiles\obj\Debug\net8.0\FindFiles.csproj.CoreCompileInputs.cache
+C:\temp\projetos\Section 10\FindFiles\FindFiles\obj\Debug\net8.0\FindFiles.dll
+C:\temp\projetos\Section 10\FindFiles\FindFiles\obj\Debug\net8.0\refint\FindFiles.dll
+C:\temp\projetos\Section 10\FindFiles\FindFiles\obj\Debug\net8.0\FindFiles.pdb
+C:\temp\projetos\Section 10\FindFiles\FindFiles\obj\Debug\net8.0\FindFiles.genruntimeconfig.cache
+C:\temp\projetos\Section 10\FindFiles\FindFiles\obj\Debug\net8.0\ref\FindFiles.dll

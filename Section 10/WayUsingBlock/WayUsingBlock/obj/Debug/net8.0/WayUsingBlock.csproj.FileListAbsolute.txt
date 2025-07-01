@@ -1,0 +1,14 @@
+C:\temp\projetos\Section 10\WayUsingBlock\WayUsingBlock\bin\Debug\net8.0\WayUsingBlock.exe
+C:\temp\projetos\Section 10\WayUsingBlock\WayUsingBlock\bin\Debug\net8.0\WayUsingBlock.deps.json
+C:\temp\projetos\Section 10\WayUsingBlock\WayUsingBlock\bin\Debug\net8.0\WayUsingBlock.runtimeconfig.json
+C:\temp\projetos\Section 10\WayUsingBlock\WayUsingBlock\bin\Debug\net8.0\WayUsingBlock.dll
+C:\temp\projetos\Section 10\WayUsingBlock\WayUsingBlock\bin\Debug\net8.0\WayUsingBlock.pdb
+C:\temp\projetos\Section 10\WayUsingBlock\WayUsingBlock\obj\Debug\net8.0\WayUsingBlock.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\projetos\Section 10\WayUsingBlock\WayUsingBlock\obj\Debug\net8.0\WayUsingBlock.AssemblyInfoInputs.cache
+C:\temp\projetos\Section 10\WayUsingBlock\WayUsingBlock\obj\Debug\net8.0\WayUsingBlock.AssemblyInfo.cs
+C:\temp\projetos\Section 10\WayUsingBlock\WayUsingBlock\obj\Debug\net8.0\WayUsingBlock.csproj.CoreCompileInputs.cache
+C:\temp\projetos\Section 10\WayUsingBlock\WayUsingBlock\obj\Debug\net8.0\WayUsingBlock.dll
+C:\temp\projetos\Section 10\WayUsingBlock\WayUsingBlock\obj\Debug\net8.0\refint\WayUsingBlock.dll
+C:\temp\projetos\Section 10\WayUsingBlock\WayUsingBlock\obj\Debug\net8.0\WayUsingBlock.pdb
+C:\temp\projetos\Section 10\WayUsingBlock\WayUsingBlock\obj\Debug\net8.0\WayUsingBlock.genruntimeconfig.cache
+C:\temp\projetos\Section 10\WayUsingBlock\WayUsingBlock\obj\Debug\net8.0\ref\WayUsingBlock.dll

@@ -1,0 +1,14 @@
+C:\temp\projetos\Section 10\TesteFileStream\TesteFileStream\bin\Debug\net8.0\TesteFileStream.exe
+C:\temp\projetos\Section 10\TesteFileStream\TesteFileStream\bin\Debug\net8.0\TesteFileStream.deps.json
+C:\temp\projetos\Section 10\TesteFileStream\TesteFileStream\bin\Debug\net8.0\TesteFileStream.runtimeconfig.json
+C:\temp\projetos\Section 10\TesteFileStream\TesteFileStream\bin\Debug\net8.0\TesteFileStream.dll
+C:\temp\projetos\Section 10\TesteFileStream\TesteFileStream\bin\Debug\net8.0\TesteFileStream.pdb
+C:\temp\projetos\Section 10\TesteFileStream\TesteFileStream\obj\Debug\net8.0\TesteFileStream.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\projetos\Section 10\TesteFileStream\TesteFileStream\obj\Debug\net8.0\TesteFileStream.AssemblyInfoInputs.cache
+C:\temp\projetos\Section 10\TesteFileStream\TesteFileStream\obj\Debug\net8.0\TesteFileStream.AssemblyInfo.cs
+C:\temp\projetos\Section 10\TesteFileStream\TesteFileStream\obj\Debug\net8.0\TesteFileStream.csproj.CoreCompileInputs.cache
+C:\temp\projetos\Section 10\TesteFileStream\TesteFileStream\obj\Debug\net8.0\TesteFileStream.dll
+C:\temp\projetos\Section 10\TesteFileStream\TesteFileStream\obj\Debug\net8.0\refint\TesteFileStream.dll
+C:\temp\projetos\Section 10\TesteFileStream\TesteFileStream\obj\Debug\net8.0\TesteFileStream.pdb
+C:\temp\projetos\Section 10\TesteFileStream\TesteFileStream\obj\Debug\net8.0\TesteFileStream.genruntimeconfig.cache
+C:\temp\projetos\Section 10\TesteFileStream\TesteFileStream\obj\Debug\net8.0\ref\TesteFileStream.dll
