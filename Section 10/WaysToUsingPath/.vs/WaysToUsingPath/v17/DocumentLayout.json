@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\temp\\projetos\\Section 10\\WaysToUsingPath\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ADA3D84D-7F12-48A4-9041-23F4ABF3AD8D}|WaysToUsingPath\\WaysToUsingPath.csproj|c:\\temp\\projetos\\section 10\\waystousingpath\\waystousingpath\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADA3D84D-7F12-48A4-9041-23F4ABF3AD8D}|WaysToUsingPath\\WaysToUsingPath.csproj|solutionrelative:waystousingpath\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\temp\\projetos\\Section 10\\WaysToUsingPath\\WaysToUsingPath\\Program.cs",
+              "RelativeDocumentMoniker": "WaysToUsingPath\\Program.cs",
+              "ToolTip": "C:\\temp\\projetos\\Section 10\\WaysToUsingPath\\WaysToUsingPath\\Program.cs",
+              "RelativeToolTip": "WaysToUsingPath\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T16:36:58.089Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

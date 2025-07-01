@@ -1,0 +1,14 @@
+C:\temp\projetos\Section 10\TestFiles\TestFiles\bin\Debug\net8.0\TestFiles.exe
+C:\temp\projetos\Section 10\TestFiles\TestFiles\bin\Debug\net8.0\TestFiles.deps.json
+C:\temp\projetos\Section 10\TestFiles\TestFiles\bin\Debug\net8.0\TestFiles.runtimeconfig.json
+C:\temp\projetos\Section 10\TestFiles\TestFiles\bin\Debug\net8.0\TestFiles.dll
+C:\temp\projetos\Section 10\TestFiles\TestFiles\bin\Debug\net8.0\TestFiles.pdb
+C:\temp\projetos\Section 10\TestFiles\TestFiles\obj\Debug\net8.0\TestFiles.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\projetos\Section 10\TestFiles\TestFiles\obj\Debug\net8.0\TestFiles.AssemblyInfoInputs.cache
+C:\temp\projetos\Section 10\TestFiles\TestFiles\obj\Debug\net8.0\TestFiles.AssemblyInfo.cs
+C:\temp\projetos\Section 10\TestFiles\TestFiles\obj\Debug\net8.0\TestFiles.csproj.CoreCompileInputs.cache
+C:\temp\projetos\Section 10\TestFiles\TestFiles\obj\Debug\net8.0\TestFiles.dll
+C:\temp\projetos\Section 10\TestFiles\TestFiles\obj\Debug\net8.0\refint\TestFiles.dll
+C:\temp\projetos\Section 10\TestFiles\TestFiles\obj\Debug\net8.0\TestFiles.pdb
+C:\temp\projetos\Section 10\TestFiles\TestFiles\obj\Debug\net8.0\TestFiles.genruntimeconfig.cache
+C:\temp\projetos\Section 10\TestFiles\TestFiles\obj\Debug\net8.0\ref\TestFiles.dll

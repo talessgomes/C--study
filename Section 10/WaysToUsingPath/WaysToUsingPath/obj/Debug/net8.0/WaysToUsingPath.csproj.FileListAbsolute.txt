@@ -1,0 +1,14 @@
+C:\temp\projetos\Section 10\WaysToUsingPath\WaysToUsingPath\bin\Debug\net8.0\WaysToUsingPath.exe
+C:\temp\projetos\Section 10\WaysToUsingPath\WaysToUsingPath\bin\Debug\net8.0\WaysToUsingPath.deps.json
+C:\temp\projetos\Section 10\WaysToUsingPath\WaysToUsingPath\bin\Debug\net8.0\WaysToUsingPath.runtimeconfig.json
+C:\temp\projetos\Section 10\WaysToUsingPath\WaysToUsingPath\bin\Debug\net8.0\WaysToUsingPath.dll
+C:\temp\projetos\Section 10\WaysToUsingPath\WaysToUsingPath\bin\Debug\net8.0\WaysToUsingPath.pdb
+C:\temp\projetos\Section 10\WaysToUsingPath\WaysToUsingPath\obj\Debug\net8.0\WaysToUsingPath.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\projetos\Section 10\WaysToUsingPath\WaysToUsingPath\obj\Debug\net8.0\WaysToUsingPath.AssemblyInfoInputs.cache
+C:\temp\projetos\Section 10\WaysToUsingPath\WaysToUsingPath\obj\Debug\net8.0\WaysToUsingPath.AssemblyInfo.cs
+C:\temp\projetos\Section 10\WaysToUsingPath\WaysToUsingPath\obj\Debug\net8.0\WaysToUsingPath.csproj.CoreCompileInputs.cache
+C:\temp\projetos\Section 10\WaysToUsingPath\WaysToUsingPath\obj\Debug\net8.0\WaysToUsingPath.dll
+C:\temp\projetos\Section 10\WaysToUsingPath\WaysToUsingPath\obj\Debug\net8.0\refint\WaysToUsingPath.dll
+C:\temp\projetos\Section 10\WaysToUsingPath\WaysToUsingPath\obj\Debug\net8.0\WaysToUsingPath.pdb
+C:\temp\projetos\Section 10\WaysToUsingPath\WaysToUsingPath\obj\Debug\net8.0\WaysToUsingPath.genruntimeconfig.cache
+C:\temp\projetos\Section 10\WaysToUsingPath\WaysToUsingPath\obj\Debug\net8.0\ref\WaysToUsingPath.dll
